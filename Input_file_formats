@@ -1,0 +1,9 @@
+CSV (Comma-Separated Values): Facilitates the tabular representation of radiomics features, ensuring ease of use and compatibility across various data processing tools.
+JSON (JavaScript Object Notation): Offers a lightweight format for storing and transporting nested radiomics feature data, enhancing readability and ease of data exchange.
+HDF5 (Hierarchical Data Format version 5): Suitable for managing large volumes of complex and heterogeneous radiomics data, providing advanced capabilities for data organization and compression.
+NIfTI (Neuroimaging Informatics Technology Initiative): Primarily used for storing volumetric images but can be adapted for encapsulating extracted radiomics features, facilitating direct linkage between spatial features and their corresponding images.
+FASTQ: Widely used for storing raw sequencing data, particularly in genomics and transcriptomics, retaining sequence information along with quality scores.
+BAM/SAM: Standard formats (Binary Alignment/Map and Sequence Alignment/Map, respectively) for storing sequence alignment data, facilitating detailed analysis of genomic rearrangements and mutations.
+VCF (Variant Call Format): Employed for describing gene sequence variations, instrumental in genomics studies to relate genetic mutations with radiomics features.
+GCT (Gene Cluster Text): Utilized in transcriptomics for organizing gene expression data in a tabular format, suitable for large-scale analysis and integration with radiomics datasets.
+MZML (Mass Spectrometry Markup Language): Applied in proteomics and metabolomics for storing mass spectrometry data, enabling the investigation of protein and metabolite profiles alongside radiological features.
